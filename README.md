@@ -4,7 +4,7 @@ Code for paper: _Guangyu Zhong_, Risheng Liu, Junjie Cao and Zhixun Su. **[A gen
 
 # Copyright
 
-If you want to use these codes, please reference the paper.
+If you want to use these codes, please refer to this paper.
 
 @article{zhong2015generalized,
   title={A generalized nonlocal mean framework with object-level cues for saliency detection},
