@@ -2,6 +2,19 @@
 
 Code for paper: _Guangyu Zhong_, Risheng Liu, Junjie Cao and Zhixun Su. **[A generalized nonlocal mean framework with object-level cues for saliency detection.](http://link.springer.com/article/10.1007%2Fs00371-015-1077-z)** The Visual Computer, 2015: 1-13.
 
+# Copyright
+
+If you want to use these codes, please reference the paper.
+
+@article{zhong2015generalized,
+  title={A generalized nonlocal mean framework with object-level cues for saliency detection},
+  author={Zhong, Guangyu and Liu, Risheng and Cao, Junjie and Su, Zhixun},
+  journal={The Visual Computer},
+  pages={1--13},
+  year={2015},
+  publisher={Springer}
+}
+
 ## Pipeline
 
 ![Pipeline](https://cloud.githubusercontent.com/assets/853842/7243717/9bcf9820-e803-11e4-8184-fe677deb10ce.jpg)
